@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "conditional-tasks",
+	"name": "Conditional Tasks",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"minAppVersion": "1.0.0",
+	"description": "Conditional Tasks is an innovative Obsidian plugin designed to dynamically add tasks to notes based on specified conditions. Streamline your note-taking by integrating smart, conditional task management.",
+	"author": "Jay Johnston",
+	"authorUrl": "https://github.com/jsjjohnston",
+	"fundingUrl": "https://www.buymeacoffee.com/jsjjohnston",
 	"isDesktopOnly": false
 }
