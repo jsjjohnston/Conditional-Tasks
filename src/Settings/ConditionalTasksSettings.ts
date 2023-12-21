@@ -1,4 +1,4 @@
-import { Task } from "src/shared/Models/Task";
+import { Task } from "src/Shared/Models/Task";
 
 export interface ConditionalTasksSettings {
 	tasks: Task[];

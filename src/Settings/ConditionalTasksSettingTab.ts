@@ -1,5 +1,5 @@
 import { App, PluginSettingTab, Setting } from "obsidian";
-import { Task } from "../shared/Models/Task";
+import { Task } from "../Shared/Models/Task"; // Update the import statement to use lowercase 'shared'
 import ConditionalTasksPlugin from "src/main";
 
 export class ConditionalTasksSettingTab extends PluginSettingTab {
